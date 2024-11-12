@@ -16,7 +16,7 @@ builder.Services.AddScoped<NhanVien_Res, NhanVien_Res>();
 //DI services
 builder.Services.AddScoped<INhanVien_Ser, NhanVien_Ser>();
 
-var app = builder.Build();
+var app = builder.Build(); 
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
