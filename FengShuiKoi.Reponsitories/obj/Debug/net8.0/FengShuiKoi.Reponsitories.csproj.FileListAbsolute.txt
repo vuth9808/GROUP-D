@@ -1,0 +1,14 @@
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\bin\Debug\net8.0\FengShuiKoi.Reponsitories.deps.json
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\bin\Debug\net8.0\FengShuiKoi.Reponsitories.dll
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\bin\Debug\net8.0\FengShuiKoi.Reponsitories.pdb
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.AssemblyInfoInputs.cache
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.AssemblyInfo.cs
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.csproj.CoreCompileInputs.cache
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.dll
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\refint\FengShuiKoi.Reponsitories.dll
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.pdb
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\ref\FengShuiKoi.Reponsitories.dll
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\bin\Debug\net8.0\FengShuiKoi.Reponsitories.runtimeconfig.json
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.csproj.AssemblyReference.cache
+D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.genruntimeconfig.cache

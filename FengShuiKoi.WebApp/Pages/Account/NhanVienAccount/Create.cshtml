@@ -1,0 +1,98 @@
+﻿@page
+@model FengShuiKoi.WebApp.Pages.Account.NhanVienAccount.CreateModel
+
+<h4>NhanVien</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NhanVien.MaNhanVien" class="control-label"></label>
+                <input asp-for="NhanVien.MaNhanVien" class="form-control" />
+                <span asp-validation-for="NhanVien.MaNhanVien" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.HoTen" class="control-label"></label>
+                <input asp-for="NhanVien.HoTen" class="form-control" />
+                <span asp-validation-for="NhanVien.HoTen" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.Tuoi" class="control-label"></label>
+                <input asp-for="NhanVien.Tuoi" class="form-control" />
+                <span asp-validation-for="NhanVien.Tuoi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.NgayThangNamSinh" class="control-label"></label>
+                <input asp-for="NhanVien.NgayThangNamSinh" class="form-control" />
+                <span asp-validation-for="NhanVien.NgayThangNamSinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.GioiTinh" class="control-label"></label>
+                <input asp-for="NhanVien.GioiTinh" class="form-control" />
+                <span asp-validation-for="NhanVien.GioiTinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.DiaChia" class="control-label"></label>
+                <input asp-for="NhanVien.DiaChia" class="form-control" />
+                <span asp-validation-for="NhanVien.DiaChia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.QueQuan" class="control-label"></label>
+                <input asp-for="NhanVien.QueQuan" class="form-control" />
+                <span asp-validation-for="NhanVien.QueQuan" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.SoDienThoai" class="control-label"></label>
+                <input asp-for="NhanVien.SoDienThoai" class="form-control" />
+                <span asp-validation-for="NhanVien.SoDienThoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.MoTa" class="control-label"></label>
+                <input asp-for="NhanVien.MoTa" class="form-control" />
+                <span asp-validation-for="NhanVien.MoTa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.TrangThai" class="control-label"></label>
+                <input asp-for="NhanVien.TrangThai" class="form-control" />
+                <span asp-validation-for="NhanVien.TrangThai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.Email" class="control-label"></label>
+                <input asp-for="NhanVien.Email" class="form-control" />
+                <span asp-validation-for="NhanVien.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.MatKhau" class="control-label"></label>
+                <input asp-for="NhanVien.MatKhau" class="form-control" />
+                <span asp-validation-for="NhanVien.MatKhau" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.LanDangNhapCuoi" class="control-label"></label>
+                <input asp-for="NhanVien.LanDangNhapCuoi" class="form-control" />
+                <span asp-validation-for="NhanVien.LanDangNhapCuoi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.ThemBoi" class="control-label"></label>
+                <input asp-for="NhanVien.ThemBoi" class="form-control" />
+                <span asp-validation-for="NhanVien.ThemBoi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhanVien.CapNhatBoi" class="control-label"></label>
+                <input asp-for="NhanVien.CapNhatBoi" class="form-control" />
+                <span asp-validation-for="NhanVien.CapNhatBoi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

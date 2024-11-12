@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FengShuiKoi.WebApp.props" />
+</Project>

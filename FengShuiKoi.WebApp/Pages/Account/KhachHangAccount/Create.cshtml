@@ -1,0 +1,53 @@
+﻿@page
+@model FengShuiKoi.WebApp.Pages.Account.KhachHangAccount.CreateModel
+
+<h4>KhachHang</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="KhachHang.TenKhachHang" class="control-label"></label>
+                <input asp-for="KhachHang.TenKhachHang" class="form-control" />
+                <span asp-validation-for="KhachHang.TenKhachHang" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KhachHang.Email" class="control-label"></label>
+                <input asp-for="KhachHang.Email" class="form-control" />
+                <span asp-validation-for="KhachHang.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KhachHang.SoDienThoai" class="control-label"></label>
+                <input asp-for="KhachHang.SoDienThoai" class="form-control" />
+                <span asp-validation-for="KhachHang.SoDienThoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KhachHang.DiaChi" class="control-label"></label>
+                <input asp-for="KhachHang.DiaChi" class="form-control" />
+                <span asp-validation-for="KhachHang.DiaChi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KhachHang.TaoBoi" class="control-label"></label>
+                <input asp-for="KhachHang.TaoBoi" class="form-control" />
+                <span asp-validation-for="KhachHang.TaoBoi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KhachHang.ChinhSuaBoi" class="control-label"></label>
+                <input asp-for="KhachHang.ChinhSuaBoi" class="form-control" />
+                <span asp-validation-for="KhachHang.ChinhSuaBoi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
