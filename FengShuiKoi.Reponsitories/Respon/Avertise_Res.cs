@@ -79,7 +79,15 @@ namespace FengShuiKoi.Reponsitories.Respon
 
         public bool UpdAvertise(Avertise Items)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _dbContext.Avertises.Update(Items);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
     }
 }

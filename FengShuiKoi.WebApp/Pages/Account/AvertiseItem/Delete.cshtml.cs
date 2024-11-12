@@ -24,15 +24,12 @@ namespace FengShuiKoi.WebApp.Pages.Account.AvertiseItem
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            int Id = 0;
             if (id == null)
             {
-                Id = 0;
                 return NotFound();
             }
 
-            Id = (int)id;
-            var avertise = await _service.GetAvertiseById(Id);
+            var avertise = await _service.GetAvertiseById((int)id);
 
             if (avertise == null)
             {

@@ -21,7 +21,6 @@ namespace FengShuiKoi.WebApp.Pages.Account.AvertiseItem
 
         public IActionResult OnGet()
         {
-        ViewData["MaKhachHang"] = new SelectList(_context.KhachHangs, "MaKhachHang", "MaKhachHang");
             return Page();
         }
 
@@ -36,8 +35,7 @@ namespace FengShuiKoi.WebApp.Pages.Account.AvertiseItem
                 return Page();
             }
 
-            _context.Avertises.Add(Avertise);
-            await _context.SaveChangesAsync();
+            _services.AddAvertise(Avertise);
 
             return RedirectToPage("./Index");
         }

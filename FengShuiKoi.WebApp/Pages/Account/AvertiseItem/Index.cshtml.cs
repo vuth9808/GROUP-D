@@ -23,7 +23,7 @@ namespace FengShuiKoi.WebApp.Pages.Account.AvertiseItem
 
         public async Task OnGetAsync()
         {
-            Avertise = await _Avertise_Ser.GetAllAvertise();
+            Avertise = await _Avertise_Ser.Avertises();
         }
     }
 }

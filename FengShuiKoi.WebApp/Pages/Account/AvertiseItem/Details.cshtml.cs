@@ -6,14 +6,16 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using FengShuiKoi.Reponsitories.Entities;
+using FengShuiKoi.Services.IServices;
+using NuGet.Versioning;
 
 namespace FengShuiKoi.WebApp.Pages.Account.AvertiseItem
 {
     public class DetailsModel : PageModel
     {
-        private readonly FengShuiKoi.Reponsitories.Entities.FengShuiKoiContext _context;
+        private readonly IAvertise_Ser _context;
 
-        public DetailsModel(FengShuiKoi.Reponsitories.Entities.FengShuiKoiContext context)
+        public DetailsModel(IAvertise_Ser context)
         {
             _context = context;
         }
@@ -27,7 +29,7 @@ namespace FengShuiKoi.WebApp.Pages.Account.AvertiseItem
                 return NotFound();
             }
 
-            var avertise = await _context.Avertises.FirstOrDefaultAsync(m => m.MaQuangCao == id);
+            var avertise = await _context.GetAvertiseById((int)id);
             if (avertise == null)
             {
                 return NotFound();
