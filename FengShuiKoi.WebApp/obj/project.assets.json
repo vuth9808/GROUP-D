@@ -7756,11 +7756,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProJect_ Group D\\FengShuiKoi.WebApp\\FengShuiKoi.WebApp.csproj",
+      "projectUniqueName": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.WebApp\\FengShuiKoi.WebApp.csproj",
       "projectName": "FengShuiKoi.WebApp",
-      "projectPath": "D:\\ProJect_ Group D\\FengShuiKoi.WebApp\\FengShuiKoi.WebApp.csproj",
+      "projectPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.WebApp\\FengShuiKoi.WebApp.csproj",
       "packagesPath": "C:\\Users\\Huywill\\.nuget\\packages\\",
-      "outputPath": "D:\\ProJect_ Group D\\FengShuiKoi.WebApp\\obj\\",
+      "outputPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Huywill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7778,8 +7778,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\ProJect_ Group D\\FengShuiKoi.Services\\FengShuiKoi.Services.csproj": {
-              "projectPath": "D:\\ProJect_ Group D\\FengShuiKoi.Services\\FengShuiKoi.Services.csproj"
+            "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Services\\FengShuiKoi.Services.csproj": {
+              "projectPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Services\\FengShuiKoi.Services.csproj"
             }
           }
         }

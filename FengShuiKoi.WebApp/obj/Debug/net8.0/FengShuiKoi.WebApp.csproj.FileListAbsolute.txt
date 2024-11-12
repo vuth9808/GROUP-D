@@ -260,3 +260,15 @@ D:\ProJect_ Group D\FengShuiKoi.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\
 D:\ProJect_ Group D\FengShuiKoi.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\ProJect_ Group D\FengShuiKoi.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\ProJect_ Group D\FengShuiKoi.WebApp\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\FengShuiKoi.WebApp.csproj.AssemblyReference.cache
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\FengShuiKoi.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\FengShuiKoi.WebApp.AssemblyInfoInputs.cache
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\FengShuiKoi.WebApp.AssemblyInfo.cs
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\FengShuiKoi.WebApp.csproj.CoreCompileInputs.cache
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\FengShuiKoi.WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\FengShuiKoi.WebApp.RazorAssemblyInfo.cache
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\FengShuiKoi.WebApp.RazorAssemblyInfo.cs
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\FengShuiKoi.WebApp.sourcelink.json
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\FengShuiKoi.WebApp.dll
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\refint\FengShuiKoi.WebApp.dll
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.WebApp\obj\Debug\net8.0\FengShuiKoi.WebApp.pdb
