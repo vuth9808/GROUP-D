@@ -12,3 +12,18 @@ D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\ref\FengShuiKoi.R
 D:\ProJect_ Group D\FengShuiKoi.Reponsitories\bin\Debug\net8.0\FengShuiKoi.Reponsitories.runtimeconfig.json
 D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.csproj.AssemblyReference.cache
 D:\ProJect_ Group D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.genruntimeconfig.cache
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\bin\Debug\net8.0\FengShuiKoi.Reponsitories.deps.json
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\bin\Debug\net8.0\FengShuiKoi.Reponsitories.runtimeconfig.json
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\bin\Debug\net8.0\FengShuiKoi.Reponsitories.dll
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\bin\Debug\net8.0\FengShuiKoi.Reponsitories.pdb
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.csproj.AssemblyReference.cache
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.AssemblyInfoInputs.cache
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.AssemblyInfo.cs
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.csproj.CoreCompileInputs.cache
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.sourcelink.json
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.dll
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\refint\FengShuiKoi.Reponsitories.dll
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.pdb
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\FengShuiKoi.Reponsitories.genruntimeconfig.cache
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi.Reponsitories\obj\Debug\net8.0\ref\FengShuiKoi.Reponsitories.dll
