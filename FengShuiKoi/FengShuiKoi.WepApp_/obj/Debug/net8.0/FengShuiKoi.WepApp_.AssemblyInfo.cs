@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FengShuiKoi.WepApp_")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+016444ee4726fa333e0ac0118e3ea9c277e4a09a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9c9b28d940be7c7d8e17dc9c9d1ca099c9f0867")]
 [assembly: System.Reflection.AssemblyProductAttribute("FengShuiKoi.WepApp_")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FengShuiKoi.WepApp_")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

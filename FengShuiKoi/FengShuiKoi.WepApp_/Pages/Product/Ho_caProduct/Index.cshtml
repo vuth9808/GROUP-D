@@ -1,0 +1,54 @@
+﻿@page
+@model FengShuiKoi.WepApp_.Pages.Product.Ho_caProduct.IndexModel
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HoCa[0].HinhDang)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HoCa[0].KichThuoc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HoCa[0].ViTri)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HoCa[0].PhuongHuong)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HoCa[0].ThichHop)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.HoCa) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HinhDang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KichThuoc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ViTri)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhuongHuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThichHop)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.MaHoCa">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.MaHoCa">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.MaHoCa">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

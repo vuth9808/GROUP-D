@@ -3,19 +3,18 @@
   "WorkspaceRootPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D6664F0-47DE-4701-9B17-0FB739468DCA}|..\\FengShuiKoi.Reponsitories\\FengShuiKoi.Reponsitories.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi.reponsitories\\entities\\koifish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D6664F0-47DE-4701-9B17-0FB739468DCA}|..\\FengShuiKoi.Reponsitories\\FengShuiKoi.Reponsitories.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi.reponsitories\\entities\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D6664F0-47DE-4701-9B17-0FB739468DCA}|..\\FengShuiKoi.Reponsitories\\FengShuiKoi.Reponsitories.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi.reponsitories\\entities\\goidangtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D6664F0-47DE-4701-9B17-0FB739468DCA}|..\\FengShuiKoi.Reponsitories\\FengShuiKoi.Reponsitories.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi.reponsitories\\entities\\fengshuikoicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D6664F0-47DE-4701-9B17-0FB739468DCA}|..\\FengShuiKoi.Reponsitories\\FengShuiKoi.Reponsitories.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi.reponsitories\\entities\\avertise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4BEA65-851F-447B-BDB7-4D94E601CF31}|FengShuiKoi.WepApp_\\FengShuiKoi.WepApp_.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fengshuikoi.wepapp_\\pages\\advertisement\\advertise\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA4BEA65-851F-447B-BDB7-4D94E601CF31}|FengShuiKoi.WepApp_\\FengShuiKoi.WepApp_.csproj|solutionrelative:fengshuikoi.wepapp_\\pages\\advertisement\\advertise\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4BEA65-851F-447B-BDB7-4D94E601CF31}|FengShuiKoi.WepApp_\\FengShuiKoi.WepApp_.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fengshuikoi.wepapp_\\pages\\account\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA4BEA65-851F-447B-BDB7-4D94E601CF31}|FengShuiKoi.WepApp_\\FengShuiKoi.WepApp_.csproj|solutionrelative:fengshuikoi.wepapp_\\pages\\account\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,66 +41,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "KoiFish.cs",
-              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Reponsitories\\Entities\\KoiFish.cs",
-              "RelativeDocumentMoniker": "..\\FengShuiKoi.Reponsitories\\Entities\\KoiFish.cs",
-              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Reponsitories\\Entities\\KoiFish.cs",
-              "RelativeToolTip": "..\\FengShuiKoi.Reponsitories\\Entities\\KoiFish.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T07:12:17.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "KhachHang.cs",
               "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Reponsitories\\Entities\\KhachHang.cs",
               "RelativeDocumentMoniker": "..\\FengShuiKoi.Reponsitories\\Entities\\KhachHang.cs",
               "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Reponsitories\\Entities\\KhachHang.cs",
               "RelativeToolTip": "..\\FengShuiKoi.Reponsitories\\Entities\\KhachHang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T07:12:16.715Z",
+              "WhenOpened": "2024-11-14T13:59:44.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GoiDangTin.cs",
-              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Reponsitories\\Entities\\GoiDangTin.cs",
-              "RelativeDocumentMoniker": "..\\FengShuiKoi.Reponsitories\\Entities\\GoiDangTin.cs",
-              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Reponsitories\\Entities\\GoiDangTin.cs",
-              "RelativeToolTip": "..\\FengShuiKoi.Reponsitories\\Entities\\GoiDangTin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T07:12:12.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FengShuiKoiContext.cs",
-              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Reponsitories\\Entities\\FengShuiKoiContext.cs",
-              "RelativeDocumentMoniker": "..\\FengShuiKoi.Reponsitories\\Entities\\FengShuiKoiContext.cs",
-              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Reponsitories\\Entities\\FengShuiKoiContext.cs",
-              "RelativeToolTip": "..\\FengShuiKoi.Reponsitories\\Entities\\FengShuiKoiContext.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAUwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T07:12:05.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Avertise.cs",
               "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Reponsitories\\Entities\\Avertise.cs",
               "RelativeDocumentMoniker": "..\\FengShuiKoi.Reponsitories\\Entities\\Avertise.cs",
               "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi.Reponsitories\\Entities\\Avertise.cs",
               "RelativeToolTip": "..\\FengShuiKoi.Reponsitories\\Entities\\Avertise.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T07:12:02.659Z",
+              "WhenOpened": "2024-11-14T13:59:39.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FengShuiKoi.WepApp_\\Pages\\Advertisement\\Advertise\\Create.cshtml",
+              "RelativeDocumentMoniker": "FengShuiKoi.WepApp_\\Pages\\Advertisement\\Advertise\\Create.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FengShuiKoi.WepApp_\\Pages\\Advertisement\\Advertise\\Create.cshtml",
+              "RelativeToolTip": "FengShuiKoi.WepApp_\\Pages\\Advertisement\\Advertise\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T13:58:27.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FengShuiKoi.WepApp_\\Pages\\Account\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "FengShuiKoi.WepApp_\\Pages\\Account\\Member\\Create.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FengShuiKoi.WepApp_\\Pages\\Account\\Member\\Create.cshtml",
+              "RelativeToolTip": "FengShuiKoi.WepApp_\\Pages\\Account\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T13:58:22.616Z",
               "EditorCaption": ""
             }
           ]

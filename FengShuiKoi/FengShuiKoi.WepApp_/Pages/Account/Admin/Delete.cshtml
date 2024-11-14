@@ -1,0 +1,70 @@
+﻿@page
+@model FengShuiKoi.WepApp_.Pages.Account.KhachHangAccount.DeleteModel
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>KhachHang</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KhachHang.TenKhachHang)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KhachHang.TenKhachHang)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KhachHang.NgayThangNamSinh)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KhachHang.NgayThangNamSinh)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KhachHang.Tuoi)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KhachHang.Tuoi)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KhachHang.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KhachHang.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KhachHang.MatKhau)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KhachHang.MatKhau)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KhachHang.SoDienThoai)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KhachHang.SoDienThoai)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KhachHang.GioiTinh)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KhachHang.GioiTinh)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KhachHang.NgayTao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KhachHang.NgayTao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.KhachHang.NgayChinhSua)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.KhachHang.NgayChinhSua)
+        </dd>
+    </dl>
+    
+    <form method="post">
+        <input type="hidden" asp-for="KhachHang.MaKhachHang" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+</div>
