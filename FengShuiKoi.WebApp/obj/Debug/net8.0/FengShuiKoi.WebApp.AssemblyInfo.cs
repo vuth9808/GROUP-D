@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FengShuiKoi.WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ac4b28733eb25c49b40fb1fdee405634dac2aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+016444ee4726fa333e0ac0118e3ea9c277e4a09a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FengShuiKoi.WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FengShuiKoi.WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,21 +5,29 @@ namespace FengShuiKoi.Reponsitories.Entities;
 
 public partial class Avertise
 {
-    public int? MaKhachHang { get; set; }
-
     public int MaQuangCao { get; set; }
 
-    public string? LoaiCa { get; set; }
+    public int? MaKhachHang { get; set; }
 
-    public string? SanPhamTrangTri { get; set; }
+    public int? MaCaKoi { get; set; }
 
-    public string? BanMenh { get; set; }
+    public string SanPhamTrangTri { get; set; } = null!;
 
-    public int? GiaTien { get; set; }
+    public string BanMenh { get; set; } = null!;
+
+    public string MoTa { get; set; } = null!;
+
+    public int GiaTien { get; set; }
 
     public DateTime? NgayTao { get; set; }
 
     public DateTime? NgayChinhSua { get; set; }
+
+    public int? MaGoi { get; set; }
+
+    public virtual KoiFish? MaCaKoiNavigation { get; set; }
+
+    public virtual GoiDangTin? MaGoiNavigation { get; set; }
 
     public virtual KhachHang? MaKhachHangNavigation { get; set; }
 }
