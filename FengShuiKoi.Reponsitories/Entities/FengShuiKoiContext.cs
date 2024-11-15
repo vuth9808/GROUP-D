@@ -35,15 +35,15 @@ public partial class FengShuiKoiContext : DbContext
     {
         modelBuilder.Entity<Avertise>(entity =>
         {
-            entity.HasKey(e => e.MaQuangCao).HasName("PK__Avertise__2B7E825D3C0EFCFF");
+            entity.HasKey(e => e.MaQuangCao).HasName("PK__Avertise__2B7E825DC8AE6F1F");
 
             entity.ToTable("Avertise");
 
-            entity.HasIndex(e => e.BanMenh, "UQ__Avertise__0388FF70CC3E6110").IsUnique();
+            entity.HasIndex(e => e.BanMenh, "UQ__Avertise__0388FF70508F33C4").IsUnique();
 
-            entity.HasIndex(e => e.MoTa, "UQ__Avertise__08B451A5C1DC2690").IsUnique();
+            entity.HasIndex(e => e.MoTa, "UQ__Avertise__08B451A5EA024B1F").IsUnique();
 
-            entity.HasIndex(e => e.SanPhamTrangTri, "UQ__Avertise__945E6CCC053C626A").IsUnique();
+            entity.HasIndex(e => e.SanPhamTrangTri, "UQ__Avertise__945E6CCC0F9DD374").IsUnique();
 
             entity.Property(e => e.MaQuangCao)
                 .ValueGeneratedNever()
@@ -54,6 +54,7 @@ public partial class FengShuiKoiContext : DbContext
             entity.Property(e => e.GiaTien).HasColumnName("gia_tien");
             entity.Property(e => e.MaCaKoi).HasColumnName("ma_ca_koi");
             entity.Property(e => e.MaGoi).HasColumnName("ma_goi");
+            entity.Property(e => e.MaHoCa).HasColumnName("ma_ho_ca");
             entity.Property(e => e.MaKhachHang).HasColumnName("ma_khach_hang");
             entity.Property(e => e.MoTa)
                 .HasMaxLength(255)
@@ -73,17 +74,22 @@ public partial class FengShuiKoiContext : DbContext
             entity.HasOne(d => d.MaCaKoiNavigation).WithMany(p => p.Avertises)
                 .HasForeignKey(d => d.MaCaKoi)
                 .OnDelete(DeleteBehavior.Cascade)
-                .HasConstraintName("FK__Avertise__ma_ca___0D7A0286");
+                .HasConstraintName("FK__Avertise__ma_ca___17036CC0");
 
             entity.HasOne(d => d.MaGoiNavigation).WithMany(p => p.Avertises)
                 .HasForeignKey(d => d.MaGoi)
                 .OnDelete(DeleteBehavior.Cascade)
-                .HasConstraintName("FK__Avertise__ma_goi__10566F31");
+                .HasConstraintName("FK__Avertise__ma_goi__1AD3FDA4");
+
+            entity.HasOne(d => d.MaHoCaNavigation).WithMany(p => p.Avertises)
+                .HasForeignKey(d => d.MaHoCa)
+                .OnDelete(DeleteBehavior.Cascade)
+                .HasConstraintName("FK__Avertise__ma_ho___17F790F9");
 
             entity.HasOne(d => d.MaKhachHangNavigation).WithMany(p => p.Avertises)
                 .HasForeignKey(d => d.MaKhachHang)
                 .OnDelete(DeleteBehavior.Cascade)
-                .HasConstraintName("FK__Avertise__ma_kha__0C85DE4D");
+                .HasConstraintName("FK__Avertise__ma_kha__160F4887");
         });
 
         modelBuilder.Entity<GoiDangTin>(entity =>

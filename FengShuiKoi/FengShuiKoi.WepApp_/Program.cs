@@ -3,6 +3,7 @@ using FengShuiKoi.Reponsitories.Res;
 using FengShuiKoi.Reponsitories.IReponsitories;
 using FengShuiKoi.Services.IServices;
 using FengShuiKoi.Services.Services;
+using FengShuiKoi.Reponsitories.Respon;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,7 +13,7 @@ builder.Services.AddRazorPages();
 //DI 
 builder.Services.AddDbContext<FengShuiKoiContext>();
 //DI Reponsitories
-builder.Services.AddScoped<NhanVien_Res, NhanVien_Res>();
+builder.Services.AddScoped<INhanVien_Res, NhanVien_Res>();
 //DI services
 builder.Services.AddScoped<INhanVien_Ser, NhanVien_Ser>();
 

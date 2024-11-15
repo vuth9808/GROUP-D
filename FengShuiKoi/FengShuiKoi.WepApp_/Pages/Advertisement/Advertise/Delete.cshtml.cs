@@ -6,16 +6,17 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using FengShuiKoi.Reponsitories.Entities;
+using FengShuiKoi.Services.IServices;
 
 namespace FengShuiKoi.WepApp_.Pages.Advertisement.Advertise
 {
     public class DeleteModel : PageModel
     {
-        private readonly FengShuiKoi.Reponsitories.Entities.FengShuiKoiContext _context;
+        private readonly IAvertise_Ser _service;
 
-        public DeleteModel(FengShuiKoi.Reponsitories.Entities.FengShuiKoiContext context)
+        public DeleteModel(IAvertise_Ser service)
         {
-            _context = context;
+            _service = service;
         }
 
         [BindProperty]
@@ -28,7 +29,7 @@ namespace FengShuiKoi.WepApp_.Pages.Advertisement.Advertise
                 return NotFound();
             }
 
-            var avertise = await _context.Avertises.FirstOrDefaultAsync(m => m.MaQuangCao == id);
+            var avertise = await _service.GetAvertiseById((int)id);
 
             if (avertise == null)
             {
@@ -48,13 +49,7 @@ namespace FengShuiKoi.WepApp_.Pages.Advertisement.Advertise
                 return NotFound();
             }
 
-            var avertise = await _context.Avertises.FindAsync(id);
-            if (avertise != null)
-            {
-                Avertise = avertise;
-                _context.Avertises.Remove(Avertise);
-                await _context.SaveChangesAsync();
-            }
+            _service.DelAvertise((int)id);
 
             return RedirectToPage("./Index");
         }

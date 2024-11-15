@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FengShuiKoi.Reponsitories.IReponsitories
 {
-    internal interface IAvertise_Res
+    public interface IAvertise_Res
     {
         Task<List<Avertise>> GetAllAvertise();
         Boolean DelAvertise(int Id);

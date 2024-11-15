@@ -1,15 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace FengShuiKoi.Reponsitories.Entities;
 
 public partial class Avertise
 {
     public int MaQuangCao { get; set; }
-
+    [DisplayFormat(NullDisplayText = "No grade")]
     public int? MaKhachHang { get; set; }
 
     public int? MaCaKoi { get; set; }
+
+    public int? MaHoCa { get; set; }
 
     public string SanPhamTrangTri { get; set; } = null!;
 
@@ -28,6 +31,8 @@ public partial class Avertise
     public virtual KoiFish? MaCaKoiNavigation { get; set; }
 
     public virtual GoiDangTin? MaGoiNavigation { get; set; }
+
+    public virtual HoCa? MaHoCaNavigation { get; set; }
 
     public virtual KhachHang? MaKhachHangNavigation { get; set; }
 }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FengShuiKoi.Reponsitories.IReponsitories
 {
-    internal interface IKhachHang_Res
+    public interface IKhachHang_Res
     {
         Task<List<KhachHang>> GetAllKhachHang();
         Boolean DelKhachHang(int Id);

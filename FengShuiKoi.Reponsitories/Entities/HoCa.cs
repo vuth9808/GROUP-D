@@ -16,4 +16,6 @@ public partial class HoCa
     public string PhuongHuong { get; set; } = null!;
 
     public string ThichHop { get; set; } = null!;
+
+    public virtual ICollection<Avertise> Avertises { get; set; } = new List<Avertise>();
 }

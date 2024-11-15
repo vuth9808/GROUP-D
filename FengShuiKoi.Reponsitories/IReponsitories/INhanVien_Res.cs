@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FengShuiKoi.Reponsitories.IReponsitories
 {
-    internal interface INhanVien_Res
+    public interface INhanVien_Res
     {
         Task<List<NhanVien>> GetAllNhanVien();
         Boolean DelNhanvien(int Id);

@@ -6,7 +6,7 @@ namespace FengShuiKoi.Reponsitories.Entities;
 public partial class KhachHang
 {
     public int MaKhachHang { get; set; }
-
+    
     public string TenKhachHang { get; set; } = null!;
 
     public DateOnly NgayThangNamSinh { get; set; }

@@ -7,14 +7,15 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using FengShuiKoi.Reponsitories.Entities;
+using FengShuiKoi.Services.IServices;
 
 namespace FengShuiKoi.WepApp_.Pages.Advertisement.Advertise
 {
     public class EditModel : PageModel
     {
-        private readonly FengShuiKoi.Reponsitories.Entities.FengShuiKoiContext _context;
+        private readonly IAvertise_Ser _context;
 
-        public EditModel(FengShuiKoi.Reponsitories.Entities.FengShuiKoiContext context)
+        public EditModel(IAvertise_Ser context)
         {
             _context = context;
         }
@@ -29,16 +30,16 @@ namespace FengShuiKoi.WepApp_.Pages.Advertisement.Advertise
                 return NotFound();
             }
 
-            var avertise =  await _context.Avertises.FirstOrDefaultAsync(m => m.MaQuangCao == id);
+            var avertise = await _context.GetAvertiseById((int)id);
             if (avertise == null)
             {
                 return NotFound();
             }
             Avertise = avertise;
-           ViewData["MaCaKoi"] = new SelectList(_context.KoiFishes, "MaCaKoi", "GiongCa");
-           ViewData["MaGoi"] = new SelectList(_context.GoiDangTins, "MaGoi", "GiaTien");
-           ViewData["MaHoCa"] = new SelectList(_context.HoCas, "MaHoCa", "HinhDang");
-           ViewData["MaKhachHang"] = new SelectList(_context.KhachHangs, "MaKhachHang", "Email");
+           //ViewData["MaCaKoi"] = new SelectList(_context.KoiFishes, "MaCaKoi", "GiongCa");
+           //ViewData["MaGoi"] = new SelectList(_context.GoiDangTins, "MaGoi", "GiaTien");
+           //ViewData["MaHoCa"] = new SelectList(_context.HoCas, "MaHoCa", "HinhDang");
+           //ViewData["MaKhachHang"] = new SelectList(_context.KhachHangs, "MaKhachHang", "Email");
             return Page();
         }
 
@@ -51,30 +52,14 @@ namespace FengShuiKoi.WepApp_.Pages.Advertisement.Advertise
                 return Page();
             }
 
-            _context.Attach(Avertise).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!AvertiseExists(Avertise.MaQuangCao))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
+            _context.UpdAvertise(Avertise);    
 
             return RedirectToPage("./Index");
         }
 
         private bool AvertiseExists(int id)
         {
-            return _context.Avertises.Any(e => e.MaQuangCao == id);
+            return _context.GetAvertiseById(id) != null;
         }
     }
 }

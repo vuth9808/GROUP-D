@@ -6,14 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using FengShuiKoi.Reponsitories.Entities;
+using FengShuiKoi.Services.IServices;
 
 namespace FengShuiKoi.WepApp_.Pages.Advertisement.Advertise
 {
     public class IndexModel : PageModel
     {
-        private readonly FengShuiKoi.Reponsitories.Entities.FengShuiKoiContext _context;
+        private readonly IAvertise_Ser _context;
 
-        public IndexModel(FengShuiKoi.Reponsitories.Entities.FengShuiKoiContext context)
+        public IndexModel(IAvertise_Ser context)
         {
             _context = context;
         }
@@ -22,11 +23,11 @@ namespace FengShuiKoi.WepApp_.Pages.Advertisement.Advertise
 
         public async Task OnGetAsync()
         {
-            Avertise = await _context.Avertises
-                .Include(a => a.MaCaKoiNavigation)
-                .Include(a => a.MaGoiNavigation)
-                .Include(a => a.MaHoCaNavigation)
-                .Include(a => a.MaKhachHangNavigation).ToListAsync();
+            Avertise = await _context.Avertises();
+                //.Include(a => a.MaCaKoiNavigation)
+                //.Include(a => a.MaGoiNavigation)
+                //.Include(a => a.MaHoCaNavigation)
+                //.Include(a => a.MaKhachHangNavigation).ToListAsync();
         }
     }
 }
