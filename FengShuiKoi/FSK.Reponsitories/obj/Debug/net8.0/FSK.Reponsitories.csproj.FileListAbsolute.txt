@@ -1,0 +1,14 @@
+D:\Main\FengShuiKoi\FSK.Reponsitories\bin\Debug\net8.0\FSK.Reponsitories.deps.json
+D:\Main\FengShuiKoi\FSK.Reponsitories\bin\Debug\net8.0\FSK.Reponsitories.dll
+D:\Main\FengShuiKoi\FSK.Reponsitories\bin\Debug\net8.0\FSK.Reponsitories.pdb
+D:\Main\FengShuiKoi\FSK.Reponsitories\obj\Debug\net8.0\FSK.Reponsitories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\FengShuiKoi\FSK.Reponsitories\obj\Debug\net8.0\FSK.Reponsitories.AssemblyInfoInputs.cache
+D:\Main\FengShuiKoi\FSK.Reponsitories\obj\Debug\net8.0\FSK.Reponsitories.AssemblyInfo.cs
+D:\Main\FengShuiKoi\FSK.Reponsitories\obj\Debug\net8.0\FSK.Reponsitories.csproj.CoreCompileInputs.cache
+D:\Main\FengShuiKoi\FSK.Reponsitories\obj\Debug\net8.0\FSK.Reponsitories.dll
+D:\Main\FengShuiKoi\FSK.Reponsitories\obj\Debug\net8.0\refint\FSK.Reponsitories.dll
+D:\Main\FengShuiKoi\FSK.Reponsitories\obj\Debug\net8.0\FSK.Reponsitories.pdb
+D:\Main\FengShuiKoi\FSK.Reponsitories\obj\Debug\net8.0\ref\FSK.Reponsitories.dll
+D:\Main\FengShuiKoi\FSK.Reponsitories\bin\Debug\net8.0\FSK.Reponsitories.runtimeconfig.json
+D:\Main\FengShuiKoi\FSK.Reponsitories\obj\Debug\net8.0\FSK.Reponsitories.csproj.AssemblyReference.cache
+D:\Main\FengShuiKoi\FSK.Reponsitories\obj\Debug\net8.0\FSK.Reponsitories.genruntimeconfig.cache
