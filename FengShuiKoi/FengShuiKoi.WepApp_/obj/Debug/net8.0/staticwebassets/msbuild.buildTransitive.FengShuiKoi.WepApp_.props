@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\FengShuiKoi.WepApp_.props" />
-</Project>
