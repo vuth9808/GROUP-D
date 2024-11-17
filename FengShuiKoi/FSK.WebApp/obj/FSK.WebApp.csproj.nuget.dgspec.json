@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Main\\FengShuiKoi\\FSK.WebApp\\FSK.WebApp.csproj": {}
+    "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\FSK.WebApp.csproj": {}
   },
   "projects": {
-    "D:\\Main\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj": {
+    "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Main\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj",
+        "projectUniqueName": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj",
         "projectName": "FSK.Reponsitories",
-        "projectPath": "D:\\Main\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj",
+        "projectPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj",
         "packagesPath": "C:\\Users\\Huywill\\.nuget\\packages\\",
-        "outputPath": "D:\\Main\\FengShuiKoi\\FSK.Reponsitories\\obj\\",
+        "outputPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Reponsitories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Huywill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\Main\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj": {
+    "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Main\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj",
+        "projectUniqueName": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj",
         "projectName": "FSK.Services",
-        "projectPath": "D:\\Main\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj",
+        "projectPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj",
         "packagesPath": "C:\\Users\\Huywill\\.nuget\\packages\\",
-        "outputPath": "D:\\Main\\FengShuiKoi\\FSK.Services\\obj\\",
+        "outputPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Huywill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,8 +106,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Main\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj": {
-                "projectPath": "D:\\Main\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj"
+              "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj": {
+                "projectPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "D:\\Main\\FengShuiKoi\\FSK.WebApp\\FSK.WebApp.csproj": {
+    "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\FSK.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Main\\FengShuiKoi\\FSK.WebApp\\FSK.WebApp.csproj",
+        "projectUniqueName": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\FSK.WebApp.csproj",
         "projectName": "FSK.WebApp",
-        "projectPath": "D:\\Main\\FengShuiKoi\\FSK.WebApp\\FSK.WebApp.csproj",
+        "projectPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\FSK.WebApp.csproj",
         "packagesPath": "C:\\Users\\Huywill\\.nuget\\packages\\",
-        "outputPath": "D:\\Main\\FengShuiKoi\\FSK.WebApp\\obj\\",
+        "outputPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Huywill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,8 +171,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Main\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj": {
-                "projectPath": "D:\\Main\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj"
+              "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj": {
+                "projectPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj"
               }
             }
           }

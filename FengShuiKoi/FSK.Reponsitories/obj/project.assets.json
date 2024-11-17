@@ -4045,11 +4045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Main\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj",
+      "projectUniqueName": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj",
       "projectName": "FSK.Reponsitories",
-      "projectPath": "D:\\Main\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj",
+      "projectPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Reponsitories\\FSK.Reponsitories.csproj",
       "packagesPath": "C:\\Users\\Huywill\\.nuget\\packages\\",
-      "outputPath": "D:\\Main\\FengShuiKoi\\FSK.Reponsitories\\obj\\",
+      "outputPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Reponsitories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Huywill\\AppData\\Roaming\\NuGet\\NuGet.Config",

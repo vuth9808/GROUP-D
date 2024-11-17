@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FSK.WebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73c3b3c272ebf9ff8c38347da6dd563cb79d8eab")]
 [assembly: System.Reflection.AssemblyProductAttribute("FSK.WebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FSK.WebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

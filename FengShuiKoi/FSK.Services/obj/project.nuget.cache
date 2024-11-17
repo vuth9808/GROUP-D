@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SS9AzD/Zugk=",
+  "dgSpecHash": "dAVLYzkWEvY=",
   "success": true,
-  "projectFilePath": "D:\\Main\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj",
+  "projectFilePath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.Services\\FSK.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Huywill\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Huywill\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
