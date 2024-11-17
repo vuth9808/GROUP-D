@@ -1,15 +1,240 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Main\\FengShuiKoi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\quangcao\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\quangcao\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\quangcao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\quangcao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\quangcao\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\quangcao\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\quangcao\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\quangcao\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\quangcao\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\quangcao\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\quangcao\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\quangcao\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\quangcao\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\quangcao\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\quangcao\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\quangcao\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\quangcao\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\quangcao\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\quangcao\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\quangcao\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\cacgoidangtin\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\cacgoidangtin\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\cacgoidangtin\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\cacgoidangtin\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\cacgoidangtin\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\cacgoidangtin\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\cacgoidangtin\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\cacgoidangtin\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\cacgoidangtin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\cacgoidangtin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\cacgoidangtin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\cacgoidangtin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\cacgoidangtin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\cacgoidangtin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\cacgoidangtin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\cacgoidangtin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\cacgoidangtin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\cacgoidangtin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\avertisement\\cacgoidangtin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\avertisement\\cacgoidangtin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\koifishproduct\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\koifishproduct\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\koifishproduct\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\koifishproduct\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\koifishproduct\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\koifishproduct\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\koifishproduct\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\koifishproduct\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\koifishproduct\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\koifishproduct\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\hocaproduct\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\hocaproduct\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\member\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\member\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\hocaproduct\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\hocaproduct\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\hocaproduct\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\hocaproduct\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\admin\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\admin\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\member\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\member\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\member\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\member\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\admin\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\admin\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\hocaproduct\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\hocaproduct\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\koifishproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\koifishproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\koifishproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\koifishproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\koifishproduct\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\koifishproduct\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\koifishproduct\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\koifishproduct\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\koifishproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\koifishproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\hocaproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\hocaproduct\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\hocaproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\hocaproduct\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\hocaproduct\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\hocaproduct\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\hocaproduct\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\hocaproduct\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\hocaproduct\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\hocaproduct\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\product\\hocaproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\product\\hocaproduct\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\member\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\member\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\member\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\member\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\member\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\member\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\member\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|d:\\project_group d\\project\\group-d\\fengshuikoi\\fsk.webapp\\pages\\account\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EC1E583-DD06-485C-B96F-F7C333F9B16B}|FSK.WebApp\\FSK.WebApp.csproj|solutionrelative:fsk.webapp\\pages\\account\\member\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 214,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 362,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +247,734 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Index.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Index.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Index.cshtml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:23:26.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Index.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Index.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Index.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:23:26.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Delete.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Delete.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:23:26.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Delete.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Delete.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:23:26.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Details.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Details.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:23:25.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Details.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Details.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Details.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:23:25.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Edit.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Edit.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:23:25.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Edit.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Edit.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:23:25.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Create.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Create.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:23:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Create.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Create.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Create.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\QuangCao\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:23:25.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Index.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Index.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:16:07.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Index.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Index.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Index.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:16:07.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Delete.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Delete.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Delete.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:16:07.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Delete.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Delete.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:16:07.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Details.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Details.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Details.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwB4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:16:06.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Details.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Details.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Details.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:16:06.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Edit.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Edit.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Edit.cshtml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wEoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:16:06.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Edit.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Edit.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:16:06.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Create.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Create.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Create.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T10:16:06.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Create.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Create.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Create.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Avertisement\\CacGoiDangTin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:16:05.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T10:09:06.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Index.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Index.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:43:14.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Index.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Index.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:43:14.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Delete.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Delete.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Delete.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:43:14.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Delete.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Delete.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:43:14.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Details.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Details.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Details.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:43:14.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Details.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Details.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Details.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:43:14.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Edit.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Edit.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Edit.cshtml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wEoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:43:14.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Edit.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Edit.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:43:13.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Create.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Create.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Create.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:43:13.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Create.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Create.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Create.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\KoiFishProduct\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:43:13.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Index.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Index.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:42:14.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Index.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Index.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Index.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:42:14.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Delete.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Delete.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Delete.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:42:14.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Delete.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Delete.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:42:14.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Details.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Details.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Details.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:42:14.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Details.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Details.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Details.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:42:13.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Edit.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Edit.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Edit.cshtml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:42:13.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Edit.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Edit.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:42:13.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Create.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Create.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:42:13.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Create.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Create.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Product\\HoCaProduct\\Create.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Product\\HoCaProduct\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:42:13.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Admin\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Admin\\Details.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Admin\\Details.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Admin\\Details.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:32:18.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Admin\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Admin\\Delete.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Admin\\Delete.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Admin\\Delete.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwD8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:29:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:26:54.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:26:53.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Error.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:26:52.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Member\\Index.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Index.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Member\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:18:05.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Member\\Index.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Index.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Member\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:18:05.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Member\\Delete.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Delete.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Member\\Delete.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:18:05.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Member\\Delete.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Delete.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Member\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:18:05.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Member\\Details.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Details.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Member\\Details.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:18:05.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Details.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Member\\Details.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Details.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Member\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:18:05.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Member\\Edit.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Edit.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Member\\Edit.cshtml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:18:05.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Member\\Edit.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Edit.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Member\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:18:05.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Member\\Create.cshtml.cs",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Create.cshtml.cs",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Member\\Create.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:18:05.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "FSK.WebApp\\Pages\\Account\\Member\\Create.cshtml",
+              "ToolTip": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\Pages\\Account\\Member\\Create.cshtml",
+              "RelativeToolTip": "FSK.WebApp\\Pages\\Account\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T09:18:04.847Z",
+              "EditorCaption": ""
             }
           ]
         }

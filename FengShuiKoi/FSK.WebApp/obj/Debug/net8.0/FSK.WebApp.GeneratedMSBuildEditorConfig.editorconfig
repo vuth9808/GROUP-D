@@ -46,6 +46,66 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxBZG1pblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Account/Member/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxNZW1iZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Account/Member/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxNZW1iZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Account/Member/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxNZW1iZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Account/Member/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxNZW1iZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Account/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxNZW1iZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Avertisement/CacGoiDangTin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXZlcnRpc2VtZW50XENhY0dvaURhbmdUaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Avertisement/CacGoiDangTin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXZlcnRpc2VtZW50XENhY0dvaURhbmdUaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Avertisement/CacGoiDangTin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXZlcnRpc2VtZW50XENhY0dvaURhbmdUaW5cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Avertisement/CacGoiDangTin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXZlcnRpc2VtZW50XENhY0dvaURhbmdUaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Avertisement/CacGoiDangTin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXZlcnRpc2VtZW50XENhY0dvaURhbmdUaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Avertisement/QuangCao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXZlcnRpc2VtZW50XFF1YW5nQ2FvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Avertisement/QuangCao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXZlcnRpc2VtZW50XFF1YW5nQ2FvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Avertisement/QuangCao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXZlcnRpc2VtZW50XFF1YW5nQ2FvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Avertisement/QuangCao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXZlcnRpc2VtZW50XFF1YW5nQ2FvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Avertisement/QuangCao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXZlcnRpc2VtZW50XFF1YW5nQ2FvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -56,6 +116,46 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Product/HoCaProduct/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxIb0NhUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Product/HoCaProduct/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxIb0NhUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Product/HoCaProduct/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxIb0NhUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Product/HoCaProduct/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxIb0NhUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Product/HoCaProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxIb0NhUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Product/KoiFishProduct/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxLb2lGaXNoUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Product/KoiFishProduct/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxLb2lGaXNoUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Product/KoiFishProduct/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxLb2lGaXNoUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Product/KoiFishProduct/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxLb2lGaXNoUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Product/KoiFishProduct/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFxLb2lGaXNoUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/PROJECT_GROUP D/Project/GROUP-D/FengShuiKoi/FSK.WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]

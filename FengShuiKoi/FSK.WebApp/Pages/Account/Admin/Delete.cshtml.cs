@@ -22,7 +22,7 @@ namespace FSK.WebApp.Pages.Account.Admin
         [BindProperty]
         public NhanVien NhanVien { get; set; } = default!;
 
-        public async Task<IActionResult> OnGetAsync(string id)
+        public async Task<IActionResult> OnGetAsync(string? id)
         {
             
             if (id == null)
@@ -53,14 +53,15 @@ namespace FSK.WebApp.Pages.Account.Admin
                 return NotFound();
             }
 
-            var nhanvien = await _context.NhanVienServices.GetNhanvienById(id);
-            if (nhanvien != null)
-            {
-                NhanVien = nhanvien;
-                //_context.NhanViens.Remove(NhanVien);
-                //await _context.SaveChangesAsync();
-                _context.NhanVienServices.DelNhanvien(nhanvien);
-            }
+            //var nhanvien = await _context.NhanVienServices.GetNhanvienById(id);
+            //if (nhanvien != null)
+            //{
+            //    NhanVien = nhanvien;
+            //    //_context.NhanViens.Remove(NhanVien);
+            //    //await _context.SaveChangesAsync();
+            //    _context.NhanVienServices.DelNhanvien(NhanVien);
+            //}
+            _context.NhanVienServices.DelNhanvien(id);
 
             return RedirectToPage("./Index");
         }
