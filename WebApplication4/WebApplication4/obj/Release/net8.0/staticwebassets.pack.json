@@ -1,0 +1,1117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\WebApplication4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication4.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\blog.html",
+      "PackagePath": "staticwebassets\\blog\\blog.html"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\10.png",
+      "PackagePath": "staticwebassets\\blog\\images\\10.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\12.webp",
+      "PackagePath": "staticwebassets\\blog\\images\\12.webp"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\13.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\14.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\8.webp",
+      "PackagePath": "staticwebassets\\blog\\images\\8.webp"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\about.png",
+      "PackagePath": "staticwebassets\\blog\\images\\about.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\banner.png",
+      "PackagePath": "staticwebassets\\blog\\images\\banner.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\banner2.png",
+      "PackagePath": "staticwebassets\\blog\\images\\banner2.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\img1.1.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\img1.1.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\img10.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\img10.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\img4.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\img5.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\img6.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\img6.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\img7.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\img7.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\img8.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\img8.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\img9.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\img9.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\testi1.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\testi1.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\testi2.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\testi2.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\images\\testi3.jpg",
+      "PackagePath": "staticwebassets\\blog\\images\\testi3.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\main.js",
+      "PackagePath": "staticwebassets\\blog\\main.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\blog\\style.css",
+      "PackagePath": "staticwebassets\\blog\\style.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\css\\templatemo-topic-listing.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-topic-listing.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\businesswoman-using-tablet-analysis.jpg",
+      "PackagePath": "staticwebassets\\images\\businesswoman-using-tablet-analysis.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\colleagues-working-cozy-office-medium-shot.jpg",
+      "PackagePath": "staticwebassets\\images\\colleagues-working-cozy-office-medium-shot.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\faq_graphic.jpg",
+      "PackagePath": "staticwebassets\\images\\faq_graphic.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\rear-view-young-college-student.jpg",
+      "PackagePath": "staticwebassets\\images\\rear-view-young-college-student.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\1.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\10.png",
+      "PackagePath": "staticwebassets\\images\\topics\\10.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\11.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\12.webp",
+      "PackagePath": "staticwebassets\\images\\topics\\12.webp"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\13.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\14.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\15.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\2.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\3.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\4.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\5.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\6.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\7.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\8.webp",
+      "PackagePath": "staticwebassets\\images\\topics\\8.webp"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\9.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\banner2.png",
+      "PackagePath": "staticwebassets\\images\\topics\\banner2.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\colleagues-working-cozy-office-medium-shot.png",
+      "PackagePath": "staticwebassets\\images\\topics\\colleagues-working-cozy-office-medium-shot.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\logo_uth.png",
+      "PackagePath": "staticwebassets\\images\\topics\\logo_uth.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\undraw_Compose_music_re_wpiw.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Compose_music_re_wpiw.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\undraw_Educator_re_ju47.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Educator_re_ju47.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\undraw_Finance_re_gnv2.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Finance_re_gnv2.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\undraw_Graduation_re_gthn.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Graduation_re_gthn.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\undraw_Group_video_re_btu7.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Group_video_re_btu7.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\undraw_Podcast_audience_re_4i5q.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Podcast_audience_re_4i5q.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\undraw_Redesign_feedback_re_jvm0.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Redesign_feedback_re_jvm0.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\undraw_Remote_design_team_re_urdx.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Remote_design_team_re_urdx.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\undraw_happy_music_g6wc.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_happy_music_g6wc.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\undraw_online_ad_re_ol62.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_online_ad_re_ol62.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\images\\topics\\undraw_viral_tweet_gndb.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_viral_tweet_gndb.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\js\\click-scroll.js",
+      "PackagePath": "staticwebassets\\js\\click-scroll.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lbl\\blog1\\1.jpg",
+      "PackagePath": "staticwebassets\\lbl\\blog1\\1.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lbl\\blog1\\2.jpg",
+      "PackagePath": "staticwebassets\\lbl\\blog1\\2.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lbl\\blog1\\3.jpg",
+      "PackagePath": "staticwebassets\\lbl\\blog1\\3.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lbl\\blog1\\blog1.html",
+      "PackagePath": "staticwebassets\\lbl\\blog1\\blog1.html"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lbl\\blog1\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\lbl\\blog1\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lbl\\blog1\\images\\banner2.png",
+      "PackagePath": "staticwebassets\\lbl\\blog1\\images\\banner2.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lbl\\blog1\\main.js",
+      "PackagePath": "staticwebassets\\lbl\\blog1\\main.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lbl\\blog1\\style.css",
+      "PackagePath": "staticwebassets\\lbl\\blog1\\style.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\blog.html",
+      "PackagePath": "staticwebassets\\sp\\blog.html"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\sp\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\sp\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\css\\templatemo-topic-listing.css",
+      "PackagePath": "staticwebassets\\sp\\css\\templatemo-topic-listing.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\businesswoman-using-tablet-analysis.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\businesswoman-using-tablet-analysis.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\colleagues-working-cozy-office-medium-shot.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\colleagues-working-cozy-office-medium-shot.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\faq_graphic.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\faq_graphic.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\rear-view-young-college-student.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\rear-view-young-college-student.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\1.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\1.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\10.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\10.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\11.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\11.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\12.webp",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\12.webp"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\13.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\13.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\14.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\14.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\15.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\15.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\2.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\2.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\3.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\3.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\4.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\4.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\5.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\5.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\6.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\6.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\7.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\7.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\8.webp",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\8.webp"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\9.jpg",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\9.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\colleagues-working-cozy-office-medium-shot.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\colleagues-working-cozy-office-medium-shot.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\undraw_Compose_music_re_wpiw.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\undraw_Compose_music_re_wpiw.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\undraw_Educator_re_ju47.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\undraw_Educator_re_ju47.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\undraw_Finance_re_gnv2.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\undraw_Finance_re_gnv2.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\undraw_Graduation_re_gthn.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\undraw_Graduation_re_gthn.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\undraw_Group_video_re_btu7.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\undraw_Group_video_re_btu7.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\undraw_Podcast_audience_re_4i5q.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\undraw_Podcast_audience_re_4i5q.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\undraw_Redesign_feedback_re_jvm0.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\undraw_Redesign_feedback_re_jvm0.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\undraw_Remote_design_team_re_urdx.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\undraw_Remote_design_team_re_urdx.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\undraw_happy_music_g6wc.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\undraw_happy_music_g6wc.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\undraw_online_ad_re_ol62.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\undraw_online_ad_re_ol62.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\images\\topics\\undraw_viral_tweet_gndb.png",
+      "PackagePath": "staticwebassets\\sp\\images\\topics\\undraw_viral_tweet_gndb.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\sp\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\js\\click-scroll.js",
+      "PackagePath": "staticwebassets\\sp\\js\\click-scroll.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\js\\custom.js",
+      "PackagePath": "staticwebassets\\sp\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\sp\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\sp\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\sp\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\topics-detail.html",
+      "PackagePath": "staticwebassets\\sp\\topics-detail.html"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\sp\\topics-listing.html",
+      "PackagePath": "staticwebassets\\sp\\topics-listing.html"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\10.png",
+      "PackagePath": "staticwebassets\\tintuc\\images\\10.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\11.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\12.webp",
+      "PackagePath": "staticwebassets\\tintuc\\images\\12.webp"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\13.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\14.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\14.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\55.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\55.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\8.webp",
+      "PackagePath": "staticwebassets\\tintuc\\images\\8.webp"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\9.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\about.png",
+      "PackagePath": "staticwebassets\\tintuc\\images\\about.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\banner.png",
+      "PackagePath": "staticwebassets\\tintuc\\images\\banner.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\banner2.png",
+      "PackagePath": "staticwebassets\\tintuc\\images\\banner2.png"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\img1.1.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\img1.1.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\img10.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\img10.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\img4.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\img5.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\img6.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\img6.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\img7.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\img7.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\img8.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\img8.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\img9.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\img9.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\testi1.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\testi1.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\testi2.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\testi2.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\images\\testi3.jpg",
+      "PackagePath": "staticwebassets\\tintuc\\images\\testi3.jpg"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\main.js",
+      "PackagePath": "staticwebassets\\tintuc\\main.js"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\style.css",
+      "PackagePath": "staticwebassets\\tintuc\\style.css"
+    },
+    {
+      "Id": "C:\\TO_HOANG_VU\\UTH\\HK1_2024-2025\\cong-nghe-phan-mem\\Project\\WebApplication4\\WebApplication4\\wwwroot\\tintuc\\tintuc.html",
+      "PackagePath": "staticwebassets\\tintuc\\tintuc.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.WebApplication4.props",
+      "PackagePath": "build\\WebApplication4.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication4.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication4.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication4.props",
+      "PackagePath": "buildTransitive\\WebApplication4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
