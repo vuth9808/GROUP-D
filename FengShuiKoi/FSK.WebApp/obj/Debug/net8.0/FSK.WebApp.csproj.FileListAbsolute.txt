@@ -523,3 +523,8 @@ D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi\FSK.WebApp\obj\Debug\net8.0\refin
 D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi\FSK.WebApp\obj\Debug\net8.0\FSK.WebApp.pdb
 D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi\FSK.WebApp\obj\Debug\net8.0\FSK.WebApp.genruntimeconfig.cache
 D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi\FSK.WebApp\obj\Debug\net8.0\ref\FSK.WebApp.dll
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi\FSK.WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi\FSK.WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi\FSK.WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi\FSK.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\PROJECT_GROUP D\Project\GROUP-D\FengShuiKoi\FSK.WebApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

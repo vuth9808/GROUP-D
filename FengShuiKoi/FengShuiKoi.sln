@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSK.WebApp", "FSK.WebApp\FSK.WebApp.csproj", "{4EC1E583-DD06-485C-B96F-F7C333F9B16B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FSK.WebApp", "FSK.WebApp\FSK.WebApp.csproj", "{4EC1E583-DD06-485C-B96F-F7C333F9B16B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSK.Reponsitories", "FSK.Reponsitories\FSK.Reponsitories.csproj", "{F3A6EE51-9CC2-4AAB-ADCA-203D7068091F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FSK.Reponsitories", "FSK.Reponsitories\FSK.Reponsitories.csproj", "{F3A6EE51-9CC2-4AAB-ADCA-203D7068091F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSK.Services", "FSK.Services\FSK.Services.csproj", "{F61A672D-3B83-42D3-A6F1-6AB50E170C4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FSK.Services", "FSK.Services\FSK.Services.csproj", "{F61A672D-3B83-42D3-A6F1-6AB50E170C4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

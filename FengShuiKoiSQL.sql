@@ -1,4 +1,4 @@
-USE master
+﻿USE master
 GO
 
 CREATE DATABASE FengShuiKoi
@@ -55,6 +55,15 @@ CREATE TABLE KoiFish
 )
 go
 
+INSERT INTO KoiFish (ma_ca_koi, so_luong, giong_ca, mo_ta, thich_hop)
+VALUES
+(1, 10, 'Kohaku', N'Màu trắng và đỏ', N'Thích hợp trong ao nhiệt độ ôn hòa'),
+(2, 15, 'Taisho Sanke', N'Màu trắng, đỏ và đen', N'Thích hợp trong ao lớn với nước sạch'),
+(3, 8, 'Showa Sanshoku', N'Màu đen, đỏ và trắng', N'Thích hợp trong môi trường nước lạnh'),
+(4, 20, 'Asagi', N'Màu xanh dương và đỏ', N'Thích hợp trong ao đáy cát mịn'),
+(5, 5, 'Shusui', N'Màu xanh dương sáng', N'Thích hợp trong nước tĩnh, ít dòng chảy');
+go
+
 create table Ho_ca
 (
 	ma_ho_ca  int primary key,
@@ -66,6 +75,15 @@ create table Ho_ca
 
 )
 go 
+
+INSERT INTO Ho_ca (ma_ho_ca, hinh_dang, kich_thuoc, vi_tri, phuong_huong, thich_hop)
+VALUES
+(1, N'Vuông', N'3x3m', N'Sân sau', N'Hướng Nam', N'Thích hợp cho koi Kohaku'),
+(2, N'Chữ nhật', N'4x2m', N'Trước nhà', N'Hướng Đông', N'Thích hợp cho koi Showa'),
+(3, N'Tròn', N'Đường kính 3m', N'Góc vườn', N'Hướng Tây', N'Thích hợp cho koi Sanke'),
+(4, N'Oval', N'4x3m', N'Bên hông nhà', N'Hướng Bắc', N'Thích hợp cho koi Asagi'),
+(5, N'Lục giác', N'2x2m', N'Tầng thượng', N'Hướng Tây Nam', N'Thích hợp cho koi Shusui');
+go
 
 create table Goi_dang_tin
 (

@@ -5,6 +5,98 @@
       "PackagePath": "staticwebassets\\FSK.WebApp.bundle.scp.css"
     },
     {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\KoiFish\\Asagi.jpg",
+      "PackagePath": "staticwebassets\\KoiFish\\Asagi.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\KoiFish\\Ginrin.jpg",
+      "PackagePath": "staticwebassets\\KoiFish\\Ginrin.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\KoiFish\\Ginrin_.jpg",
+      "PackagePath": "staticwebassets\\KoiFish\\Ginrin_.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\KoiFish\\Kohaku.jpg",
+      "PackagePath": "staticwebassets\\KoiFish\\Kohaku.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\KoiFish\\ShowaSanshoku.jpg",
+      "PackagePath": "staticwebassets\\KoiFish\\ShowaSanshoku.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\KoiFish\\Shusui.jpg",
+      "PackagePath": "staticwebassets\\KoiFish\\Shusui.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\KoiFish\\TaishoSanke.jpg",
+      "PackagePath": "staticwebassets\\KoiFish\\TaishoSanke.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\img\\back.jpg",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\img\\back.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\img\\background.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\img\\icon-apple.svg",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\img\\icon-apple.svg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\img\\icon-facebook.svg",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\img\\icon-facebook.svg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\img\\icon-google.svg",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\img\\icon-google.svg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\img\\mask-blob.svg",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\img\\mask-blob.svg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\img\\nen.jpg",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\img\\nen.jpg"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\img\\viettelpost.png",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\img\\viettelpost.png"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\scss\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\scss\\base\\_base.scss"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\scss\\components\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\scss\\components\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\scss\\components\\_login.scss",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\scss\\components\\_login.scss"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\scss\\config\\_variables.scss",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\scss\\config\\_variables.scss"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\scss\\layout\\_layout.scss",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\scss\\layout\\_layout.scss"
+    },
+    {
+      "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\LoginUserPage\\assets\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\LoginUserPage\\assets\\scss\\styles.scss"
+    },
+    {
       "Id": "D:\\PROJECT_GROUP D\\Project\\GROUP-D\\FengShuiKoi\\FSK.WebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

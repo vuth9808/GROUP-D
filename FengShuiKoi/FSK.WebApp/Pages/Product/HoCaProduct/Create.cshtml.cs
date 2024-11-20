@@ -6,14 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using FSK.Reponsitories.Entities;
+using FSK.Services;
 
 namespace FSK.WebApp.Pages.Product.HoCaProduct
 {
     public class CreateModel : PageModel
     {
-        private readonly FSK.Reponsitories.Entities.FengShuiKoiContext _context;
+        private readonly IBaseServices _context;
 
-        public CreateModel(FSK.Reponsitories.Entities.FengShuiKoiContext context)
+        public CreateModel(IBaseServices context)
         {
             _context = context;
         }
@@ -34,8 +35,7 @@ namespace FSK.WebApp.Pages.Product.HoCaProduct
                 return Page();
             }
 
-            _context.HoCas.Add(HoCa);
-            await _context.SaveChangesAsync();
+            _context.hoCaServices.AddHoCa(HoCa);
 
             return RedirectToPage("./Index");
         }
