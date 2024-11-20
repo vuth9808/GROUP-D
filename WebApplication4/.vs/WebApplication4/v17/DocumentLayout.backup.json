@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8397E592-E8D4-4AB5-835D-F22F024D4C91}|WebApplication4\\WebApplication4.csproj|c:\\users\\admin\\source\\repos\\webapplication4\\webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8397E592-E8D4-4AB5-835D-F22F024D4C91}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkCAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T14:45:24.853Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
