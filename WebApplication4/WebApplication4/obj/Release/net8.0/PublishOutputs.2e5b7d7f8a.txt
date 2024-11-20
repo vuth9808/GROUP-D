@@ -1,0 +1,7 @@
+C:\TO_HOANG_VU\UTH\HK1_2024-2025\cong-nghe-phan-mem\Project\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.exe
+C:\TO_HOANG_VU\UTH\HK1_2024-2025\cong-nghe-phan-mem\Project\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\TO_HOANG_VU\UTH\HK1_2024-2025\cong-nghe-phan-mem\Project\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\TO_HOANG_VU\UTH\HK1_2024-2025\cong-nghe-phan-mem\Project\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.dll
+C:\TO_HOANG_VU\UTH\HK1_2024-2025\cong-nghe-phan-mem\Project\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.deps.json
+C:\TO_HOANG_VU\UTH\HK1_2024-2025\cong-nghe-phan-mem\Project\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.runtimeconfig.json
+C:\TO_HOANG_VU\UTH\HK1_2024-2025\cong-nghe-phan-mem\Project\WebApplication4\WebApplication4\obj\Release\net8.0\PubTmp\Out\WebApplication4.pdb

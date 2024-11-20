@@ -56,15 +56,15 @@ header{
     z-index: 200;
 }
 
-header.shadow{
-    background: var(--bg-color);
-    box-shadow: 0 1px 4px hsl(0 4% 14% / 10%);
-    transition: .5s;
-}
+    header.shadow {
+        background: #000000;
+        box-shadow: 0 1px 4px hsl(0 4% 14% / 10%);
+        transition: .5s;
+    }
 
-header.shadow .logo{
-    color: var(--text-color);
-}
+    header.shadow .logo {
+        color: #86b7fe;
+    }
 
 .nav{
     display: flex;
@@ -73,10 +73,10 @@ header.shadow .logo{
     padding: 18px 0;
 }
 
-.logo{
+.logo {
     font-size: 1.5rem;
     font-weight: 600;
-    color: var(--bg-color);
+    color: #0d6efd;
 }
 
 .logo span{
@@ -97,10 +97,10 @@ header.shadow .logo{
     transition: .5s;
 }
 
-.home{
+.home {
     width: 100%;
     min-height: 440px;
-    background: url("images/banner2.png");
+    background: url(https://esuhai.vn/upload/fck_new/image/4Nursery/SONG%20&%20LV%20TAI%20NB/2022/T5/van-hoa-nhat-ban-esuhai-kaizen-ca-koi-11.jpg);
     display: grid;
     justify-content: center;
     align-items: center;
