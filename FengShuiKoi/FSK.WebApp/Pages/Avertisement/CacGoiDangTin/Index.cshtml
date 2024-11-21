@@ -1,0 +1,36 @@
+﻿@page
+@model FSK.WebApp.Pages.Avertisement.CacGoiDangTin.IndexModel
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.GoiDangTin[0].TenGoi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GoiDangTin[0].GiaTien)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.GoiDangTin) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenGoi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaTien)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.MaGoi">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.MaGoi">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.MaGoi">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

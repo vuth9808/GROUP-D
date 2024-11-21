@@ -1,0 +1,84 @@
+﻿@page
+@model FSK.WebApp.Pages.Avertisement.QuangCao.IndexModel
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Avertise[0].SanPhamTrangTri)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avertise[0].BanMenh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avertise[0].MoTa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avertise[0].GiaTien)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avertise[0].NgayTao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avertise[0].NgayChinhSua)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avertise[0].MaCaKoiNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avertise[0].MaGoiNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avertise[0].MaHoCaNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Avertise[0].MaKhachHangNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Avertise) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SanPhamTrangTri)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BanMenh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaTien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayTao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayChinhSua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaCaKoiNavigation.GiongCa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaGoiNavigation.GiaTien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaHoCaNavigation.HinhDang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaKhachHangNavigation.Email)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.MaQuangCao">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.MaQuangCao">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.MaQuangCao">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

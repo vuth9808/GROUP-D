@@ -1,0 +1,53 @@
+﻿@page
+@model FSK.WebApp.Pages.Product.HoCaProduct.CreateModel
+
+<h4 style="margin-top: 150px; margin-left: 200px; margin-right: 200px">HoCa</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" style="margin-left: 200px; margin-right: 200px">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="HoCa.MaHoCa" class="control-label"></label>
+                <input asp-for="HoCa.MaHoCa" class="form-control" />
+                <span asp-validation-for="HoCa.MaHoCa" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoCa.HinhDang" class="control-label"></label>
+                <input asp-for="HoCa.HinhDang" class="form-control" />
+                <span asp-validation-for="HoCa.HinhDang" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoCa.KichThuoc" class="control-label"></label>
+                <input asp-for="HoCa.KichThuoc" class="form-control" />
+                <span asp-validation-for="HoCa.KichThuoc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoCa.ViTri" class="control-label"></label>
+                <input asp-for="HoCa.ViTri" class="form-control" />
+                <span asp-validation-for="HoCa.ViTri" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoCa.PhuongHuong" class="control-label"></label>
+                <input asp-for="HoCa.PhuongHuong" class="form-control" />
+                <span asp-validation-for="HoCa.PhuongHuong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HoCa.ThichHop" class="control-label"></label>
+                <input asp-for="HoCa.ThichHop" class="form-control" />
+                <span asp-validation-for="HoCa.ThichHop" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div style="margin-top: 20px; margin-left: 200px; margin-right: 200px">
+    <a class="btn rounded-pill btn-secondary" asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

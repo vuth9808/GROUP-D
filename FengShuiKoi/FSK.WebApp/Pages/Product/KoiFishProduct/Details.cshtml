@@ -1,0 +1,40 @@
+﻿@page
+@model FSK.WebApp.Pages.Product.KoiFishProduct.DetailsModel
+
+<div class="alert alert-dark mb-0" style="max-width: 400px; margin-top: 150px; margin-left: 200px; margin-right: 200px">
+    <h4 style="text-align: center;">@Html.DisplayFor(model => model.KoiFish.GiongCa)</h4>
+    <hr />
+    <dl class="row">
+        
+        <dt class="col-sm-5" style="text-align: right;">
+            @Html.DisplayNameFor(model => model.KoiFish.GiongCa) :
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.KoiFish.GiongCa) 
+        </dd>
+        <dt class="col-sm-5" style="text-align: right;">
+            @Html.DisplayNameFor(model => model.KoiFish.SoLuong) :
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.KoiFish.SoLuong)
+        </dd>
+        <dt class="col-sm-5" style="text-align: right;">
+            @Html.DisplayNameFor(model => model.KoiFish.MoTa) :
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.KoiFish.MoTa)
+        </dd>
+        <dt class="col-sm-5" style="text-align: right;">
+            @Html.DisplayNameFor(model => model.KoiFish.ThichHop) :
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.KoiFish.ThichHop)
+        </dd>
+    </dl>
+</div>
+
+<div style="margin-top: 20px; margin-left: 200px; margin-right: 200px">
+    <a class="btn rounded-pill btn-primary" asp-page="./Edit" asp-route-id="@Model.KoiFish.MaCaKoi">Edit</a> |
+    <a class="btn rounded-pill btn-secondary" asp-page="./Index">Back to List</a>
+</div>
+
