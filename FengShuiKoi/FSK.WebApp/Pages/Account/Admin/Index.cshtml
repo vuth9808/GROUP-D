@@ -1,0 +1,90 @@
+﻿@page
+@model FSK.WebApp.Pages.Account.Admin.IndexModel
+
+<p>
+    <a type="button" class="btn btn-secondary" class="btn btn-xl btn-primary" asp-page="Create">Create New</a>
+</p>
+<div class="card" style="box-shadow: 0 .1875rem .5rem 0 rgba(34, 48, 62, .1); box-sizing: border-box;">
+    <h5 class="card-header">Table Admin</h5>
+    <div class="table-responsive text-nowrap">
+        <table class="table table-dark">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NhanVien[0].HoTen)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NhanVien[0].NgayThangNamSinh)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NhanVien[0].Tuoi)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NhanVien[0].GioiTinh)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NhanVien[0].SoDienThoai)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NhanVien[0].Email)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NhanVien[0].MatKhau)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NhanVien[0].NgayThem)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.NhanVien[0].NgayChinhSua)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+        @foreach (var item in Model.NhanVien) {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HoTen)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NgayThangNamSinh)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Tuoi)
+                    </td>
+                    <td>
+                        @if (item.GioiTinh == true) 
+                            { 
+                                @:Nam
+                            } 
+                            else if (item.GioiTinh == false)
+                            {
+                                @:Nữ 
+                            }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SoDienThoai)
+                    </td>
+                    <td style="color: yellow">
+                            <strong>@Html.DisplayFor(modelItem => item.Email)</strong>
+                    </td>
+                    <td>
+                        <mark>@Html.DisplayFor(modelItem => item.MatKhau)</mark>
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NgayThem)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NgayChinhSua)
+                    </td>
+                    <td>
+                        <a class="btn btn-primary" asp-page="./Edit" asp-route-id="@item.MaNhanVien">Edit</a> |
+                        <a class="btn btn-info" asp-page="./Details" asp-route-id="@item.MaNhanVien">Details</a> |
+                        <a class="btn btn-danger" asp-page="./Delete" asp-route-id="@item.MaNhanVien">Delete</a>
+                    </td>
+                </tr>
+        }
+            </tbody>
+        </table>
+    </div>
+</div>

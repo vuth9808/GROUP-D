@@ -1,0 +1,136 @@
+﻿@page
+@model FSK.WebApp.Pages.section_3Model
+@{
+}
+<body>
+<header></header>
+<section id="section_3">
+    <div style="background-color: #88d4c4; padding: 30px; max-width: 400px; margin: 200px auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); font-family: Arial, sans-serif;">
+        <h2 style="color: #333; font-size: 22px; text-align: center; margin-bottom: 20px;">Tính Toán Bản Mệnh</h2>
+
+        <label for="name" style="display: block; margin-bottom: 8px; font-weight: bold;">Họ và tên:</label>
+        <input type="text" id="name" placeholder="Nhập họ tên của bạn" style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 5px; border: 1px solid #ccc; font-size: 16px;">
+
+        <label for="birthYear" style="display: block; margin-bottom: 8px; font-weight: bold;">Năm sinh:</label>
+        <input type="number" id="birthYear" placeholder="Nhập năm sinh của bạn" style="width: 100%; padding: 10px; margin-bottom: 15px; border-radius: 5px; border: 1px solid #ccc; font-size: 16px;">
+
+        <button onclick="calculateDestiny()" style="width: 100%; padding: 12px; background-color: #333; color: #fff; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; transition: background-color 0.3s ease;">
+            Tính Bản Mệnh
+        </button>
+
+        <div class="result" id="result" style="margin-top: 20px; font-weight: bold; text-align: center; color: #333; font-size: 18px;"></div>
+
+        <!-- Kết quả giống cá và hồ cá -->
+        <div class="koiInfo" id="koiInfo" style="margin-top: 20px; font-weight: bold; text-align: justify; color: #333; font-size: 16px;"></div>
+
+        <!-- Nút Xem sản phẩm -->
+        <div id="productButtons" style="margin-top: 20px; display: none;">
+            <button onclick="window.location.href='/Product/KoiFishProduct'" style="width: 100%; padding: 12px; background-color: #000; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-bottom: 10px; transition: background-color 0.3s ease;">
+                Xem sản phẩm cá Koi
+            </button>
+            <button onclick="window.location.href='/Product/HoCaProduct'" style="width: 100%; padding: 12px; background-color: #000; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; transition: background-color 0.3s ease;">
+                Xem sản phẩm hồ cá
+            </button>
+        </div>
+    </div>
+
+    <script>
+        function calculateDestiny() {
+            const name = document.getElementById("name").value;
+            const birthYear = parseInt(document.getElementById("birthYear").value);
+            const resultDiv = document.getElementById("result");
+            const koiInfoDiv = document.getElementById("koiInfo");
+            const productButtonsDiv = document.getElementById("productButtons");
+
+            // Kiểm tra năm sinh hợp lệ
+            if (!birthYear || isNaN(birthYear) || birthYear < 1900 || birthYear > new Date().getFullYear()) {
+                resultDiv.innerHTML = "Vui lòng nhập năm sinh hợp lệ.";
+                koiInfoDiv.innerHTML = '';
+                productButtonsDiv.style.display = 'none';
+                return;
+            }
+
+            // Danh sách các năm và mệnh
+            const mệnhKim = [1954, 1955, 1962, 1963, 1984, 1985, 1992, 1993, 2000, 1970, 1971];
+            const mệnhHoả = [1956, 1957, 1964, 1965, 1978, 1979, 1986, 1987, 1994, 1995, 2008, 2009];
+            const mệnhThuỷ = [1952, 1953, 1966, 1967, 1974, 1975, 1982, 1983, 1996, 1997, 2004, 2005];
+            const mệnhMộc = [1950, 1951, 1958, 1959, 1972, 1973, 1980, 1981, 1988, 1989, 2002, 2003];
+            const mệnhThổ = [1969, 1961, 1968, 1969, 1990, 1991, 1998, 1999, 2006, 2007];
+
+            // Xác định mệnh từ năm sinh
+            let element = '';
+            let koi = '';
+            let pond = '';
+            let pondSize = '';
+            let pondShape = '';
+            let pondDecoration = '';
+
+            if (mệnhKim.includes(birthYear)) {
+                element = 'Kim';
+                koi = "Cá Koi giống Platinum, Gin Rin hoặc Hi Utsuri.";
+                pond = "Nước sạch, ánh sáng vừa phải, không quá nóng.";
+                pondSize = "2 - 3m².";
+                pondShape = "Chữ nhật hoặc tròn.";
+                pondDecoration = "Đá tự nhiên, cây thủy sinh xanh.";
+            } else if (mệnhHoả.includes(birthYear)) {
+                element = 'Hoả';
+                koi = "Cá Koi giống Kohaku, Sanke hoặc Showa.";
+                pond = "Nước ấm, nhiều ánh sáng, cây thủy sinh tạo bóng mát.";
+                pondSize = "2 - 3m².";
+                pondShape = "Tròn hoặc đa giác.";
+                pondDecoration = "Cây cảnh cao, đèn chiếu sáng.";
+            } else if (mệnhThuỷ.includes(birthYear)) {
+                element = 'Thuỷ';
+                koi = "Cá Koi giống Shiro Utsuri, Asagi hoặc Kikusui.";
+                pond = "Nước mát, bóng mát từ cây cối.";
+                pondSize = "2m².";
+                pondShape = "Oval hoặc tự do.";
+                pondDecoration = "Cây thủy sinh dài, đá nhỏ, sỏi.";
+            } else if (mệnhMộc.includes(birthYear)) {
+                element = 'Mộc';
+                koi = "Cá Koi giống Kiwa, Aka Matsuba.";
+                pond = "Nhiều cây thủy sinh, nước sạch, lưu thông tốt.";
+                pondSize = "2m² trở lên.";
+                pondShape = "Chữ nhật hoặc oval.";
+                pondDecoration = "Cây thủy sinh tươi tốt, thác nước nhỏ.";
+            } else if (mệnhThổ.includes(birthYear)) {
+                element = 'Thổ';
+                koi = "Cá Koi giống Tancho, Utsurimono.";
+                pond = "Đáy hồ sạch, pH ổn định, ít tảo.";
+                pondSize = "2 - 3m².";
+                pondShape = "Vuông hoặc chữ nhật.";
+                pondDecoration = "Đá tự nhiên, cây thủy sinh nhẹ nhàng.";
+            } else {
+                element = 'Không xác định';
+                koi = '';
+                pond = '';
+                pondSize = '';
+                pondShape = '';
+                pondDecoration = '';
+            }
+
+            resultDiv.innerHTML = `Bạn ${name} sinh năm ${birthYear} có mệnh là: <span style="color: #333;">${element}</span>`;
+            koiInfoDiv.innerHTML = `
+                                                    <p><strong>Giống cá Koi phù hợp:</strong> ${koi}</p>
+                                                    <p><strong>Đặc điểm hồ cá phù hợp:</strong> ${pond}</p>
+                                                    <p><strong>Kích thước hồ:</strong> ${pondSize}</p>
+                                                    <p><strong>Hình dạng hồ:</strong> ${pondShape}</p>
+                                                    <p><strong>Trang trí hồ:</strong> ${pondDecoration}</p>
+                                                `;
+
+            // Hiển thị nút Xem sản phẩm
+            productButtonsDiv.style.display = 'block';
+        }
+
+        const button = document.querySelector("button");
+        button.addEventListener("mouseover", function () {
+            this.style.backgroundColor = "#555";
+        });
+
+        button.addEventListener("mouseout", function () {
+            this.style.backgroundColor = "#333";
+        });
+    </script>
+
+</section>
+</body>

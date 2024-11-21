@@ -1,0 +1,43 @@
+﻿@page
+@model FSK.WebApp.Pages.Product.HoCaProduct.DetailsModel
+
+<div class="alert alert-dark mb-0" style="max-width: 400px; margin-top: 150px; margin-left: 200px; margin-right: 200px">
+    <h4 style="text-align: center;">@Html.DisplayFor(model => model.HoCa.HinhDang)</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-5">
+            @Html.DisplayNameFor(model => model.HoCa.HinhDang) :
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.HoCa.HinhDang)
+        </dd>
+        <dt class="col-sm-5">
+            @Html.DisplayNameFor(model => model.HoCa.KichThuoc) :
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.HoCa.KichThuoc)
+        </dd>
+        <dt class="col-sm-5">
+            @Html.DisplayNameFor(model => model.HoCa.ViTri) :
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.HoCa.ViTri)
+        </dd>
+        <dt class="col-sm-5">
+            @Html.DisplayNameFor(model => model.HoCa.PhuongHuong) :
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.HoCa.PhuongHuong)
+        </dd>
+        <dt class="col-sm-5">
+            @Html.DisplayNameFor(model => model.HoCa.ThichHop) :
+        </dt>
+        <dd class="col-sm-5">
+            @Html.DisplayFor(model => model.HoCa.ThichHop)
+        </dd>
+    </dl>
+</div>
+<div style="margin-top: 20px; margin-left: 200px; margin-right: 200px">
+    <a class="btn rounded-pill btn-primary" asp-page="./Edit" asp-route-id="@Model.HoCa.MaHoCa">Edit</a> |
+    <a class="btn rounded-pill btn-secondary" asp-page="./Index">Back to List</a>
+</div>
